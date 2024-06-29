@@ -46,15 +46,15 @@ I am primarily using **Java** for solving all the DSA problems in this repositor
 ## Getting Started
 
 1. **Clone the repository**:
-   
+   ```
    git clone https://github.com/aloukik16/DSA.git
    ```
 2. **Navigate to the repository**:
-   
+   ```
    cd DSA
    ```
 3. **Navigate to a specific problems Topic**:
-   
+   ```
    cd 1.Variables
    ```
 4. **Run the code** in your preferred IDE or compiler.
